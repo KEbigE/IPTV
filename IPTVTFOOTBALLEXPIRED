@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS 11 (English)
-http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/8299.ts
-#EXTINF:-1,BEIN SPORTS 12 (English)
-http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/8298.ts
-#EXTINF:-1,BEIN SPORTS 13 (English)
-http://tv.iptvsensation.com:6500/live/ryanriviere24@gmail.com/Wfdy30rB56/8297.ts
+#EXTINF:-1,Astro SuperSport HD
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
+#EXTINF:-1,Astro SuperSport 2 HD
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
+#EXTINF:-1,Astro SuperSport 3 HD
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
+#EXTINF:-1,Astro SuperSport 4 HD
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
